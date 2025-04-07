@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic
+admet_ai
+torch==2.5.0
